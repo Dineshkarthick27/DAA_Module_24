@@ -18,8 +18,6 @@ To demonstrate a python program using dynamic programming for 0/1 knapsack probl
 To implement the program for 0/1 knapsack problem.
 
 
-Developed by: M.PAVITHRA
-Register Number:212222100032
 def knapSack(W, wt, val, n):
     ########## Add your code here #########
     K = [[0 for x in range(W + 1)] for x in range(n + 1)]
