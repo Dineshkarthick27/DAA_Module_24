@@ -20,8 +20,6 @@ To Solve Travelling Sales man Problem for the following graph.
 To implement the program for TSP.
 
 
-Developed by: M.PAVITHRA
-Register Number:  212222100032
 from sys import maxsize
 from itertools import permutations
 V = 4
